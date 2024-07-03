@@ -1,5 +1,5 @@
 - Hi!👋 I’m Soham Sahasrabuddhe @soham10
-- 👀 I’m a Science,Tech,Engineering and Mathematics enthusiast eager to explore and gain learnings.
+- 👀 I’m a STEM enthusiast eager to explore and gain learnings.
 - 🌱 I’m currently doing a B.Tech in Engineering Physics from IIT Bombay
 
 <!---
